@@ -1,0 +1,1118 @@
+"Especie","Cobertura","Codigo","Idoneidad","Familia","f_edit","f_new","f_delete"
+"Chrysocyon brachyurus","Shrubs",20,NA,"Canidae",FALSE,FALSE,FALSE
+"Chrysocyon brachyurus","Herbaceous vegetation",30,NA,"Canidae",FALSE,FALSE,FALSE
+"Chrysocyon brachyurus","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Canidae",FALSE,FALSE,FALSE
+"Chrysocyon brachyurus","Urban / built up ",50,NA,"Canidae",FALSE,FALSE,FALSE
+"Chrysocyon brachyurus","Bare / sparse vegetation",60,NA,"Canidae",FALSE,FALSE,FALSE
+"Chrysocyon brachyurus","Permanent water bodies ",80,NA,"Canidae",FALSE,FALSE,FALSE
+"Chrysocyon brachyurus","Herbaceous wetland",90,NA,"Canidae",FALSE,FALSE,FALSE
+"Chrysocyon brachyurus","Closed forest",111,NA,"Canidae",FALSE,FALSE,FALSE
+"Chrysocyon brachyurus","Open forest",126,NA,"Canidae",FALSE,FALSE,FALSE
+"Speothos venaticus","Shrubs",20,NA,"Canidae",FALSE,FALSE,FALSE
+"Speothos venaticus","Herbaceous vegetation",30,NA,"Canidae",FALSE,FALSE,FALSE
+"Speothos venaticus","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Canidae",FALSE,FALSE,FALSE
+"Speothos venaticus","Permanent water bodies ",80,NA,"Canidae",FALSE,FALSE,FALSE
+"Speothos venaticus","Herbaceous wetland",90,NA,"Canidae",FALSE,FALSE,FALSE
+"Speothos venaticus","Closed forest",111,NA,"Canidae",FALSE,FALSE,FALSE
+"Speothos venaticus","Open forest",126,NA,"Canidae",FALSE,FALSE,FALSE
+"Leopardus colocolo","No input data available ",0,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus colocolo","Shrubs",20,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus colocolo","Herbaceous vegetation",30,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus colocolo","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus colocolo","Urban / built up ",50,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus colocolo","Bare / sparse vegetation",60,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus colocolo","Snow and Ice",70,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus colocolo","Permanent water bodies ",80,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus colocolo","Herbaceous wetland",90,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus colocolo","Closed forest",111,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus colocolo","Open forest",126,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus colocolo","Open sea",200,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus colocolo",NA,NA,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus guigna","Shrubs",20,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus guigna","Herbaceous vegetation",30,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus guigna","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus guigna","Urban / built up ",50,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus guigna","Bare / sparse vegetation",60,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus guigna","Snow and Ice",70,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus guigna","Permanent water bodies ",80,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus guigna","Herbaceous wetland",90,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus guigna","Closed forest",111,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus guigna","Open forest",126,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus guigna",NA,NA,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus guttulus","Shrubs",20,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus guttulus","Herbaceous vegetation",30,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus guttulus","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus guttulus","Urban / built up ",50,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus guttulus","Permanent water bodies ",80,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus guttulus","Herbaceous wetland",90,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus guttulus","Closed forest",111,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus guttulus","Open forest",126,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus guttulus",NA,NA,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus jacobita","No input data available ",0,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus jacobita","Shrubs",20,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus jacobita","Herbaceous vegetation",30,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus jacobita","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus jacobita","Urban / built up ",50,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus jacobita","Bare / sparse vegetation",60,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus jacobita","Snow and Ice",70,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus jacobita","Permanent water bodies ",80,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus jacobita","Herbaceous wetland",90,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus jacobita","Closed forest",111,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus jacobita","Open forest",126,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus jacobita",NA,NA,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus pardalis","Shrubs",20,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus pardalis","Herbaceous vegetation",30,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus pardalis","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus pardalis","Urban / built up ",50,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus pardalis","Bare / sparse vegetation",60,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus pardalis","Permanent water bodies ",80,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus pardalis","Herbaceous wetland",90,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus pardalis","Closed forest",111,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus pardalis","Open forest",126,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus pardalis",NA,NA,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus tigrinus","Shrubs",20,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus tigrinus","Herbaceous vegetation",30,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus tigrinus","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus tigrinus","Urban / built up ",50,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus tigrinus","Bare / sparse vegetation",60,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus tigrinus","Permanent water bodies ",80,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus tigrinus","Herbaceous wetland",90,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus tigrinus","Closed forest",111,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus tigrinus","Open forest",126,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus wiedii","Shrubs",20,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus wiedii","Herbaceous vegetation",30,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus wiedii","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus wiedii","Urban / built up ",50,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus wiedii","Bare / sparse vegetation",60,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus wiedii","Permanent water bodies ",80,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus wiedii","Herbaceous wetland",90,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus wiedii","Closed forest",111,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus wiedii","Open forest",126,NA,"Felidae",FALSE,FALSE,FALSE
+"Leopardus wiedii",NA,NA,NA,"Felidae",FALSE,FALSE,FALSE
+"Panthera onca","Shrubs",20,NA,"Felidae",FALSE,FALSE,FALSE
+"Panthera onca","Herbaceous vegetation",30,NA,"Felidae",FALSE,FALSE,FALSE
+"Panthera onca","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Felidae",FALSE,FALSE,FALSE
+"Panthera onca","Urban / built up ",50,NA,"Felidae",FALSE,FALSE,FALSE
+"Panthera onca","Bare / sparse vegetation",60,NA,"Felidae",FALSE,FALSE,FALSE
+"Panthera onca","Permanent water bodies ",80,NA,"Felidae",FALSE,FALSE,FALSE
+"Panthera onca","Herbaceous wetland",90,NA,"Felidae",FALSE,FALSE,FALSE
+"Panthera onca","Closed forest",111,NA,"Felidae",FALSE,FALSE,FALSE
+"Panthera onca","Open forest",126,NA,"Felidae",FALSE,FALSE,FALSE
+"Panthera onca",NA,NA,NA,"Felidae",FALSE,FALSE,FALSE
+"Eira barbara","Shrubs",20,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Eira barbara","Herbaceous vegetation",30,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Eira barbara","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Eira barbara","Urban / built up ",50,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Eira barbara","Bare / sparse vegetation",60,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Eira barbara","Permanent water bodies ",80,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Eira barbara","Herbaceous wetland",90,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Eira barbara","Closed forest",111,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Eira barbara","Open forest",126,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Eira barbara",NA,NA,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lontra longicaudis","Shrubs",20,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lontra longicaudis","Herbaceous vegetation",30,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lontra longicaudis","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lontra longicaudis","Urban / built up ",50,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lontra longicaudis","Bare / sparse vegetation",60,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lontra longicaudis","Permanent water bodies ",80,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lontra longicaudis","Herbaceous wetland",90,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lontra longicaudis","Closed forest",111,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lontra longicaudis","Open forest",126,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lontra longicaudis","Open sea",200,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lontra longicaudis",NA,NA,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lontra provocax","Shrubs",20,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lontra provocax","Herbaceous vegetation",30,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lontra provocax","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lontra provocax","Urban / built up ",50,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lontra provocax","Bare / sparse vegetation",60,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lontra provocax","Snow and Ice",70,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lontra provocax","Permanent water bodies ",80,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lontra provocax","Herbaceous wetland",90,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lontra provocax","Closed forest",111,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lontra provocax","Open forest",126,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lontra provocax","Open sea",200,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lyncodon patagonicus","Shrubs",20,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lyncodon patagonicus","Herbaceous vegetation",30,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lyncodon patagonicus","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lyncodon patagonicus","Urban / built up ",50,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lyncodon patagonicus","Bare / sparse vegetation",60,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lyncodon patagonicus","Snow and Ice",70,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lyncodon patagonicus","Permanent water bodies ",80,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lyncodon patagonicus","Herbaceous wetland",90,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lyncodon patagonicus","Closed forest",111,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lyncodon patagonicus","Open forest",126,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lyncodon patagonicus","Open sea",200,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Lyncodon patagonicus",NA,NA,NA,"Mustelidae",FALSE,FALSE,FALSE
+"Blastocerus dichotomus","Shrubs",20,NA,"Cervidae",FALSE,FALSE,FALSE
+"Blastocerus dichotomus","Herbaceous vegetation",30,NA,"Cervidae",FALSE,FALSE,FALSE
+"Blastocerus dichotomus","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Cervidae",FALSE,FALSE,FALSE
+"Blastocerus dichotomus","Urban / built up ",50,NA,"Cervidae",FALSE,FALSE,FALSE
+"Blastocerus dichotomus","Bare / sparse vegetation",60,NA,"Cervidae",FALSE,FALSE,FALSE
+"Blastocerus dichotomus","Permanent water bodies ",80,NA,"Cervidae",FALSE,FALSE,FALSE
+"Blastocerus dichotomus","Herbaceous wetland",90,NA,"Cervidae",FALSE,FALSE,FALSE
+"Blastocerus dichotomus","Closed forest",111,NA,"Cervidae",FALSE,FALSE,FALSE
+"Blastocerus dichotomus","Open forest",126,NA,"Cervidae",FALSE,FALSE,FALSE
+"Blastocerus dichotomus","Open sea",200,NA,"Cervidae",FALSE,FALSE,FALSE
+"Hippocamelus antisensis","Shrubs",20,NA,"Cervidae",FALSE,FALSE,FALSE
+"Hippocamelus antisensis","Herbaceous vegetation",30,NA,"Cervidae",FALSE,FALSE,FALSE
+"Hippocamelus antisensis","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Cervidae",FALSE,FALSE,FALSE
+"Hippocamelus antisensis","Urban / built up ",50,NA,"Cervidae",FALSE,FALSE,FALSE
+"Hippocamelus antisensis","Bare / sparse vegetation",60,NA,"Cervidae",FALSE,FALSE,FALSE
+"Hippocamelus antisensis","Permanent water bodies ",80,NA,"Cervidae",FALSE,FALSE,FALSE
+"Hippocamelus antisensis","Herbaceous wetland",90,NA,"Cervidae",FALSE,FALSE,FALSE
+"Hippocamelus antisensis","Closed forest",111,NA,"Cervidae",FALSE,FALSE,FALSE
+"Hippocamelus antisensis","Open forest",126,NA,"Cervidae",FALSE,FALSE,FALSE
+"Hippocamelus bisulcus","Shrubs",20,NA,"Cervidae",FALSE,FALSE,FALSE
+"Hippocamelus bisulcus","Herbaceous vegetation",30,NA,"Cervidae",FALSE,FALSE,FALSE
+"Hippocamelus bisulcus","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Cervidae",FALSE,FALSE,FALSE
+"Hippocamelus bisulcus","Urban / built up ",50,NA,"Cervidae",FALSE,FALSE,FALSE
+"Hippocamelus bisulcus","Bare / sparse vegetation",60,NA,"Cervidae",FALSE,FALSE,FALSE
+"Hippocamelus bisulcus","Snow and Ice",70,NA,"Cervidae",FALSE,FALSE,FALSE
+"Hippocamelus bisulcus","Permanent water bodies ",80,NA,"Cervidae",FALSE,FALSE,FALSE
+"Hippocamelus bisulcus","Herbaceous wetland",90,NA,"Cervidae",FALSE,FALSE,FALSE
+"Hippocamelus bisulcus","Closed forest",111,NA,"Cervidae",FALSE,FALSE,FALSE
+"Hippocamelus bisulcus","Open forest",126,NA,"Cervidae",FALSE,FALSE,FALSE
+"Hippocamelus bisulcus",NA,NA,NA,"Cervidae",FALSE,FALSE,FALSE
+"Mazama americana","Shrubs",20,NA,"Cervidae",FALSE,FALSE,FALSE
+"Mazama americana","Herbaceous vegetation",30,NA,"Cervidae",FALSE,FALSE,FALSE
+"Mazama americana","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Cervidae",FALSE,FALSE,FALSE
+"Mazama americana","Urban / built up ",50,NA,"Cervidae",FALSE,FALSE,FALSE
+"Mazama americana","Bare / sparse vegetation",60,NA,"Cervidae",FALSE,FALSE,FALSE
+"Mazama americana","Permanent water bodies ",80,NA,"Cervidae",FALSE,FALSE,FALSE
+"Mazama americana","Herbaceous wetland",90,NA,"Cervidae",FALSE,FALSE,FALSE
+"Mazama americana","Closed forest",111,NA,"Cervidae",FALSE,FALSE,FALSE
+"Mazama americana","Open forest",126,NA,"Cervidae",FALSE,FALSE,FALSE
+"Mazama americana",NA,NA,NA,"Cervidae",FALSE,FALSE,FALSE
+"Mazama nana","Shrubs",20,NA,"Cervidae",FALSE,FALSE,FALSE
+"Mazama nana","Herbaceous vegetation",30,NA,"Cervidae",FALSE,FALSE,FALSE
+"Mazama nana","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Cervidae",FALSE,FALSE,FALSE
+"Mazama nana","Urban / built up ",50,NA,"Cervidae",FALSE,FALSE,FALSE
+"Mazama nana","Permanent water bodies ",80,NA,"Cervidae",FALSE,FALSE,FALSE
+"Mazama nana","Herbaceous wetland",90,NA,"Cervidae",FALSE,FALSE,FALSE
+"Mazama nana","Closed forest",111,NA,"Cervidae",FALSE,FALSE,FALSE
+"Mazama nana","Open forest",126,NA,"Cervidae",FALSE,FALSE,FALSE
+"Ozotoceros bezoarticus","Shrubs",20,NA,"Cervidae",FALSE,FALSE,FALSE
+"Ozotoceros bezoarticus","Herbaceous vegetation",30,NA,"Cervidae",FALSE,FALSE,FALSE
+"Ozotoceros bezoarticus","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Cervidae",FALSE,FALSE,FALSE
+"Ozotoceros bezoarticus","Urban / built up ",50,NA,"Cervidae",FALSE,FALSE,FALSE
+"Ozotoceros bezoarticus","Bare / sparse vegetation",60,NA,"Cervidae",FALSE,FALSE,FALSE
+"Ozotoceros bezoarticus","Permanent water bodies ",80,NA,"Cervidae",FALSE,FALSE,FALSE
+"Ozotoceros bezoarticus","Herbaceous wetland",90,NA,"Cervidae",FALSE,FALSE,FALSE
+"Ozotoceros bezoarticus","Closed forest",111,NA,"Cervidae",FALSE,FALSE,FALSE
+"Ozotoceros bezoarticus","Open forest",126,NA,"Cervidae",FALSE,FALSE,FALSE
+"Ozotoceros bezoarticus","Open sea",200,NA,"Cervidae",FALSE,FALSE,FALSE
+"Pudu puda","Shrubs",20,NA,"Cervidae",FALSE,FALSE,FALSE
+"Pudu puda","Herbaceous vegetation",30,NA,"Cervidae",FALSE,FALSE,FALSE
+"Pudu puda","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Cervidae",FALSE,FALSE,FALSE
+"Pudu puda","Urban / built up ",50,NA,"Cervidae",FALSE,FALSE,FALSE
+"Pudu puda","Bare / sparse vegetation",60,NA,"Cervidae",FALSE,FALSE,FALSE
+"Pudu puda","Snow and Ice",70,NA,"Cervidae",FALSE,FALSE,FALSE
+"Pudu puda","Permanent water bodies ",80,NA,"Cervidae",FALSE,FALSE,FALSE
+"Pudu puda","Herbaceous wetland",90,NA,"Cervidae",FALSE,FALSE,FALSE
+"Pudu puda","Closed forest",111,NA,"Cervidae",FALSE,FALSE,FALSE
+"Pudu puda","Open forest",126,NA,"Cervidae",FALSE,FALSE,FALSE
+"Parachoerus wagneri","Shrubs",20,NA,"Tayassuidae",FALSE,FALSE,FALSE
+"Parachoerus wagneri","Herbaceous vegetation",30,NA,"Tayassuidae",FALSE,FALSE,FALSE
+"Parachoerus wagneri","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Tayassuidae",FALSE,FALSE,FALSE
+"Parachoerus wagneri","Urban / built up ",50,NA,"Tayassuidae",FALSE,FALSE,FALSE
+"Parachoerus wagneri","Bare / sparse vegetation",60,NA,"Tayassuidae",FALSE,FALSE,FALSE
+"Parachoerus wagneri","Permanent water bodies ",80,NA,"Tayassuidae",FALSE,FALSE,FALSE
+"Parachoerus wagneri","Herbaceous wetland",90,NA,"Tayassuidae",FALSE,FALSE,FALSE
+"Parachoerus wagneri","Closed forest",111,NA,"Tayassuidae",FALSE,FALSE,FALSE
+"Parachoerus wagneri","Open forest",126,NA,"Tayassuidae",FALSE,FALSE,FALSE
+"Pecari tajacu","Shrubs",20,NA,"Tayassuidae",FALSE,FALSE,FALSE
+"Pecari tajacu","Herbaceous vegetation",30,NA,"Tayassuidae",FALSE,FALSE,FALSE
+"Pecari tajacu","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Tayassuidae",FALSE,FALSE,FALSE
+"Pecari tajacu","Urban / built up ",50,NA,"Tayassuidae",FALSE,FALSE,FALSE
+"Pecari tajacu","Bare / sparse vegetation",60,NA,"Tayassuidae",FALSE,FALSE,FALSE
+"Pecari tajacu","Permanent water bodies ",80,NA,"Tayassuidae",FALSE,FALSE,FALSE
+"Pecari tajacu","Herbaceous wetland",90,NA,"Tayassuidae",FALSE,FALSE,FALSE
+"Pecari tajacu","Closed forest",111,NA,"Tayassuidae",FALSE,FALSE,FALSE
+"Pecari tajacu","Open forest",126,NA,"Tayassuidae",FALSE,FALSE,FALSE
+"Pecari tajacu",NA,NA,NA,"Tayassuidae",FALSE,FALSE,FALSE
+"Tayassu pecari","Shrubs",20,NA,"Tayassuidae",FALSE,FALSE,FALSE
+"Tayassu pecari","Herbaceous vegetation",30,NA,"Tayassuidae",FALSE,FALSE,FALSE
+"Tayassu pecari","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Tayassuidae",FALSE,FALSE,FALSE
+"Tayassu pecari","Urban / built up ",50,NA,"Tayassuidae",FALSE,FALSE,FALSE
+"Tayassu pecari","Bare / sparse vegetation",60,NA,"Tayassuidae",FALSE,FALSE,FALSE
+"Tayassu pecari","Permanent water bodies ",80,NA,"Tayassuidae",FALSE,FALSE,FALSE
+"Tayassu pecari","Herbaceous wetland",90,NA,"Tayassuidae",FALSE,FALSE,FALSE
+"Tayassu pecari","Closed forest",111,NA,"Tayassuidae",FALSE,FALSE,FALSE
+"Tayassu pecari","Open forest",126,NA,"Tayassuidae",FALSE,FALSE,FALSE
+"Tayassu pecari",NA,NA,NA,"Tayassuidae",FALSE,FALSE,FALSE
+"Nyctinomops laticaudatus","Shrubs",20,NA,"Molossidae",FALSE,FALSE,FALSE
+"Nyctinomops laticaudatus","Herbaceous vegetation",30,NA,"Molossidae",FALSE,FALSE,FALSE
+"Nyctinomops laticaudatus","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Molossidae",FALSE,FALSE,FALSE
+"Nyctinomops laticaudatus","Urban / built up ",50,NA,"Molossidae",FALSE,FALSE,FALSE
+"Nyctinomops laticaudatus","Bare / sparse vegetation",60,NA,"Molossidae",FALSE,FALSE,FALSE
+"Nyctinomops laticaudatus","Permanent water bodies ",80,NA,"Molossidae",FALSE,FALSE,FALSE
+"Nyctinomops laticaudatus","Herbaceous wetland",90,NA,"Molossidae",FALSE,FALSE,FALSE
+"Nyctinomops laticaudatus","Closed forest",111,NA,"Molossidae",FALSE,FALSE,FALSE
+"Nyctinomops laticaudatus","Open forest",126,NA,"Molossidae",FALSE,FALSE,FALSE
+"Nyctinomops laticaudatus",NA,NA,NA,"Molossidae",FALSE,FALSE,FALSE
+"Anoura caudifer","Shrubs",20,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Anoura caudifer","Herbaceous vegetation",30,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Anoura caudifer","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Anoura caudifer","Urban / built up ",50,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Anoura caudifer","Bare / sparse vegetation",60,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Anoura caudifer","Permanent water bodies ",80,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Anoura caudifer","Herbaceous wetland",90,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Anoura caudifer","Closed forest",111,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Anoura caudifer","Open forest",126,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Artibeus fimbriatus","Shrubs",20,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Artibeus fimbriatus","Herbaceous vegetation",30,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Artibeus fimbriatus","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Artibeus fimbriatus","Urban / built up ",50,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Artibeus fimbriatus","Bare / sparse vegetation",60,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Artibeus fimbriatus","Permanent water bodies ",80,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Artibeus fimbriatus","Herbaceous wetland",90,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Artibeus fimbriatus","Closed forest",111,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Artibeus fimbriatus","Open forest",126,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Carollia perspicillata","Shrubs",20,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Carollia perspicillata","Herbaceous vegetation",30,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Carollia perspicillata","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Carollia perspicillata","Urban / built up ",50,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Carollia perspicillata","Bare / sparse vegetation",60,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Carollia perspicillata","Permanent water bodies ",80,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Carollia perspicillata","Herbaceous wetland",90,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Carollia perspicillata","Closed forest",111,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Carollia perspicillata","Open forest",126,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Glossophaga soricina","Shrubs",20,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Glossophaga soricina","Herbaceous vegetation",30,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Glossophaga soricina","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Glossophaga soricina","Urban / built up ",50,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Glossophaga soricina","Bare / sparse vegetation",60,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Glossophaga soricina","Permanent water bodies ",80,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Glossophaga soricina","Herbaceous wetland",90,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Glossophaga soricina","Closed forest",111,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Glossophaga soricina","Open forest",126,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Glossophaga soricina","Open sea",200,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Macrophyllum macrophyllum","Shrubs",20,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Macrophyllum macrophyllum","Herbaceous vegetation",30,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Macrophyllum macrophyllum","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Macrophyllum macrophyllum","Urban / built up ",50,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Macrophyllum macrophyllum","Permanent water bodies ",80,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Macrophyllum macrophyllum","Herbaceous wetland",90,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Macrophyllum macrophyllum","Closed forest",111,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Macrophyllum macrophyllum","Open forest",126,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Micronycteris microtis","Shrubs",20,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Micronycteris microtis","Herbaceous vegetation",30,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Micronycteris microtis","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Micronycteris microtis","Urban / built up ",50,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Micronycteris microtis","Bare / sparse vegetation",60,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Micronycteris microtis","Permanent water bodies ",80,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Micronycteris microtis","Herbaceous wetland",90,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Micronycteris microtis","Closed forest",111,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Micronycteris microtis","Open forest",126,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Platyrrhinus lineatus","Shrubs",20,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Platyrrhinus lineatus","Herbaceous vegetation",30,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Platyrrhinus lineatus","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Platyrrhinus lineatus","Urban / built up ",50,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Platyrrhinus lineatus","Bare / sparse vegetation",60,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Platyrrhinus lineatus","Permanent water bodies ",80,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Platyrrhinus lineatus","Herbaceous wetland",90,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Platyrrhinus lineatus","Closed forest",111,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Platyrrhinus lineatus","Open forest",126,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Pygoderma bilabiatum","Shrubs",20,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Pygoderma bilabiatum","Herbaceous vegetation",30,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Pygoderma bilabiatum","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Pygoderma bilabiatum","Urban / built up ",50,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Pygoderma bilabiatum","Bare / sparse vegetation",60,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Pygoderma bilabiatum","Permanent water bodies ",80,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Pygoderma bilabiatum","Herbaceous wetland",90,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Pygoderma bilabiatum","Closed forest",111,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Pygoderma bilabiatum","Open forest",126,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Sturnira oporaphilum","Shrubs",20,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Sturnira oporaphilum","Herbaceous vegetation",30,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Sturnira oporaphilum","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Sturnira oporaphilum","Urban / built up ",50,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Sturnira oporaphilum","Bare / sparse vegetation",60,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Sturnira oporaphilum","Permanent water bodies ",80,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Sturnira oporaphilum","Herbaceous wetland",90,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Sturnira oporaphilum","Closed forest",111,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Sturnira oporaphilum","Open forest",126,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Vampyressa pusilla","Shrubs",20,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Vampyressa pusilla","Herbaceous vegetation",30,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Vampyressa pusilla","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Vampyressa pusilla","Urban / built up ",50,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Vampyressa pusilla","Permanent water bodies ",80,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Vampyressa pusilla","Herbaceous wetland",90,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Vampyressa pusilla","Closed forest",111,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Vampyressa pusilla","Open forest",126,NA,"Phyllostomidae",FALSE,FALSE,FALSE
+"Myotis keaysi","Shrubs",20,NA,"Vespertilionidae",FALSE,FALSE,FALSE
+"Myotis keaysi","Herbaceous vegetation",30,NA,"Vespertilionidae",FALSE,FALSE,FALSE
+"Myotis keaysi","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Vespertilionidae",FALSE,FALSE,FALSE
+"Myotis keaysi","Urban / built up ",50,NA,"Vespertilionidae",FALSE,FALSE,FALSE
+"Myotis keaysi","Bare / sparse vegetation",60,NA,"Vespertilionidae",FALSE,FALSE,FALSE
+"Myotis keaysi","Permanent water bodies ",80,NA,"Vespertilionidae",FALSE,FALSE,FALSE
+"Myotis keaysi","Herbaceous wetland",90,NA,"Vespertilionidae",FALSE,FALSE,FALSE
+"Myotis keaysi","Closed forest",111,NA,"Vespertilionidae",FALSE,FALSE,FALSE
+"Myotis keaysi","Open forest",126,NA,"Vespertilionidae",FALSE,FALSE,FALSE
+"Myotis ruber","Shrubs",20,NA,"Vespertilionidae",FALSE,FALSE,FALSE
+"Myotis ruber","Herbaceous vegetation",30,NA,"Vespertilionidae",FALSE,FALSE,FALSE
+"Myotis ruber","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Vespertilionidae",FALSE,FALSE,FALSE
+"Myotis ruber","Urban / built up ",50,NA,"Vespertilionidae",FALSE,FALSE,FALSE
+"Myotis ruber","Bare / sparse vegetation",60,NA,"Vespertilionidae",FALSE,FALSE,FALSE
+"Myotis ruber","Permanent water bodies ",80,NA,"Vespertilionidae",FALSE,FALSE,FALSE
+"Myotis ruber","Herbaceous wetland",90,NA,"Vespertilionidae",FALSE,FALSE,FALSE
+"Myotis ruber","Closed forest",111,NA,"Vespertilionidae",FALSE,FALSE,FALSE
+"Myotis ruber","Open forest",126,NA,"Vespertilionidae",FALSE,FALSE,FALSE
+"Myotis ruber","Open sea",200,NA,"Vespertilionidae",FALSE,FALSE,FALSE
+"Cabassous chacoensis","Shrubs",20,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Cabassous chacoensis","Herbaceous vegetation",30,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Cabassous chacoensis","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Cabassous chacoensis","Urban / built up ",50,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Cabassous chacoensis","Bare / sparse vegetation",60,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Cabassous chacoensis","Permanent water bodies ",80,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Cabassous chacoensis","Herbaceous wetland",90,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Cabassous chacoensis","Closed forest",111,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Cabassous chacoensis","Open forest",126,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Cabassous tatouay","Shrubs",20,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Cabassous tatouay","Herbaceous vegetation",30,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Cabassous tatouay","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Cabassous tatouay","Urban / built up ",50,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Cabassous tatouay","Bare / sparse vegetation",60,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Cabassous tatouay","Permanent water bodies ",80,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Cabassous tatouay","Herbaceous wetland",90,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Cabassous tatouay","Closed forest",111,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Cabassous tatouay","Open forest",126,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Priodontes maximus","Shrubs",20,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Priodontes maximus","Herbaceous vegetation",30,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Priodontes maximus","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Priodontes maximus","Urban / built up ",50,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Priodontes maximus","Bare / sparse vegetation",60,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Priodontes maximus","Permanent water bodies ",80,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Priodontes maximus","Herbaceous wetland",90,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Priodontes maximus","Closed forest",111,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Priodontes maximus","Open forest",126,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Tolypeutes matacus","Shrubs",20,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Tolypeutes matacus","Herbaceous vegetation",30,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Tolypeutes matacus","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Tolypeutes matacus","Urban / built up ",50,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Tolypeutes matacus","Bare / sparse vegetation",60,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Tolypeutes matacus","Permanent water bodies ",80,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Tolypeutes matacus","Herbaceous wetland",90,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Tolypeutes matacus","Closed forest",111,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Tolypeutes matacus","Open forest",126,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Zaedyus pichiy","Shrubs",20,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Zaedyus pichiy","Herbaceous vegetation",30,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Zaedyus pichiy","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Zaedyus pichiy","Urban / built up ",50,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Zaedyus pichiy","Bare / sparse vegetation",60,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Zaedyus pichiy","Snow and Ice",70,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Zaedyus pichiy","Permanent water bodies ",80,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Zaedyus pichiy","Herbaceous wetland",90,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Zaedyus pichiy","Closed forest",111,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Zaedyus pichiy","Open forest",126,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Zaedyus pichiy","Open sea",200,NA,"Chlamyphoridae",FALSE,FALSE,FALSE
+"Dasypus hybridus","Shrubs",20,NA,"Dasypodidae",FALSE,FALSE,FALSE
+"Dasypus hybridus","Herbaceous vegetation",30,NA,"Dasypodidae",FALSE,FALSE,FALSE
+"Dasypus hybridus","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Dasypodidae",FALSE,FALSE,FALSE
+"Dasypus hybridus","Urban / built up ",50,NA,"Dasypodidae",FALSE,FALSE,FALSE
+"Dasypus hybridus","Bare / sparse vegetation",60,NA,"Dasypodidae",FALSE,FALSE,FALSE
+"Dasypus hybridus","Permanent water bodies ",80,NA,"Dasypodidae",FALSE,FALSE,FALSE
+"Dasypus hybridus","Herbaceous wetland",90,NA,"Dasypodidae",FALSE,FALSE,FALSE
+"Dasypus hybridus","Closed forest",111,NA,"Dasypodidae",FALSE,FALSE,FALSE
+"Dasypus hybridus","Open forest",126,NA,"Dasypodidae",FALSE,FALSE,FALSE
+"Dasypus hybridus","Open sea",200,NA,"Dasypodidae",FALSE,FALSE,FALSE
+"Caluromys lanatus","Shrubs",20,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Caluromys lanatus","Herbaceous vegetation",30,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Caluromys lanatus","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Caluromys lanatus","Urban / built up ",50,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Caluromys lanatus","Permanent water bodies ",80,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Caluromys lanatus","Herbaceous wetland",90,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Caluromys lanatus","Closed forest",111,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Caluromys lanatus","Open forest",126,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Chacodelphys formosa","Shrubs",20,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Chacodelphys formosa","Herbaceous vegetation",30,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Chacodelphys formosa","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Chacodelphys formosa","Urban / built up ",50,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Chacodelphys formosa","Permanent water bodies ",80,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Chacodelphys formosa","Herbaceous wetland",90,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Chacodelphys formosa","Closed forest",111,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Chacodelphys formosa","Open forest",126,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Chironectes minimus","Shrubs",20,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Chironectes minimus","Herbaceous vegetation",30,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Chironectes minimus","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Chironectes minimus","Urban / built up ",50,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Chironectes minimus","Permanent water bodies ",80,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Chironectes minimus","Herbaceous wetland",90,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Chironectes minimus","Closed forest",111,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Chironectes minimus","Open forest",126,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Gracilinanus microtarsus","Shrubs",20,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Gracilinanus microtarsus","Herbaceous vegetation",30,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Gracilinanus microtarsus","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Gracilinanus microtarsus","Urban / built up ",50,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Gracilinanus microtarsus","Permanent water bodies ",80,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Gracilinanus microtarsus","Herbaceous wetland",90,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Gracilinanus microtarsus","Closed forest",111,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Gracilinanus microtarsus","Open forest",126,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Lutreolina massoia","Shrubs",20,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Lutreolina massoia","Herbaceous vegetation",30,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Lutreolina massoia","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Lutreolina massoia","Urban / built up ",50,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Lutreolina massoia","Bare / sparse vegetation",60,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Lutreolina massoia","Permanent water bodies ",80,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Lutreolina massoia","Herbaceous wetland",90,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Lutreolina massoia","Closed forest",111,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Lutreolina massoia","Open forest",126,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Lutreolina massoia",NA,NA,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Marmosa paraguayana","Shrubs",20,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Marmosa paraguayana","Herbaceous vegetation",30,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Marmosa paraguayana","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Marmosa paraguayana","Urban / built up ",50,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Marmosa paraguayana","Permanent water bodies ",80,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Marmosa paraguayana","Herbaceous wetland",90,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Marmosa paraguayana","Closed forest",111,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Marmosa paraguayana","Open forest",126,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Metachirus nudicaudatus","Shrubs",20,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Metachirus nudicaudatus","Herbaceous vegetation",30,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Metachirus nudicaudatus","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Metachirus nudicaudatus","Urban / built up ",50,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Metachirus nudicaudatus","Permanent water bodies ",80,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Metachirus nudicaudatus","Herbaceous wetland",90,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Metachirus nudicaudatus","Closed forest",111,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Metachirus nudicaudatus","Open forest",126,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Monodelphis domestica","Shrubs",20,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Monodelphis domestica","Herbaceous vegetation",30,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Monodelphis domestica","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Monodelphis domestica","Urban / built up ",50,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Monodelphis domestica","Bare / sparse vegetation",60,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Monodelphis domestica","Permanent water bodies ",80,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Monodelphis domestica","Herbaceous wetland",90,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Monodelphis domestica","Closed forest",111,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Monodelphis domestica","Open forest",126,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Monodelphis domestica",NA,NA,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Monodelphis scalops","Shrubs",20,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Monodelphis scalops","Herbaceous vegetation",30,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Monodelphis scalops","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Monodelphis scalops","Urban / built up ",50,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Monodelphis scalops","Permanent water bodies ",80,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Monodelphis scalops","Herbaceous wetland",90,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Monodelphis scalops","Closed forest",111,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Monodelphis scalops","Open forest",126,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Monodelphis scalops",NA,NA,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Philander canus","Shrubs",20,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Philander canus","Herbaceous vegetation",30,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Philander canus","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Philander canus","Urban / built up ",50,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Philander canus","Permanent water bodies ",80,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Philander canus","Herbaceous wetland",90,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Philander canus","Closed forest",111,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Philander canus","Open forest",126,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Philander quica","Shrubs",20,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Philander quica","Herbaceous vegetation",30,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Philander quica","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Philander quica","Urban / built up ",50,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Philander quica","Permanent water bodies ",80,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Philander quica","Herbaceous wetland",90,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Philander quica","Closed forest",111,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Philander quica","Open forest",126,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Thylamys venustus","Shrubs",20,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Thylamys venustus","Herbaceous vegetation",30,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Thylamys venustus","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Thylamys venustus","Urban / built up ",50,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Thylamys venustus","Bare / sparse vegetation",60,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Thylamys venustus","Permanent water bodies ",80,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Thylamys venustus","Herbaceous wetland",90,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Thylamys venustus","Closed forest",111,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Thylamys venustus","Open forest",126,NA,"Didelphidae",FALSE,FALSE,FALSE
+"Dromiciops gliroides","Shrubs",20,NA,"Microbiotheridae",FALSE,FALSE,FALSE
+"Dromiciops gliroides","Herbaceous vegetation",30,NA,"Microbiotheridae",FALSE,FALSE,FALSE
+"Dromiciops gliroides","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Microbiotheridae",FALSE,FALSE,FALSE
+"Dromiciops gliroides","Urban / built up ",50,NA,"Microbiotheridae",FALSE,FALSE,FALSE
+"Dromiciops gliroides","Bare / sparse vegetation",60,NA,"Microbiotheridae",FALSE,FALSE,FALSE
+"Dromiciops gliroides","Snow and Ice",70,NA,"Microbiotheridae",FALSE,FALSE,FALSE
+"Dromiciops gliroides","Permanent water bodies ",80,NA,"Microbiotheridae",FALSE,FALSE,FALSE
+"Dromiciops gliroides","Herbaceous wetland",90,NA,"Microbiotheridae",FALSE,FALSE,FALSE
+"Dromiciops gliroides","Closed forest",111,NA,"Microbiotheridae",FALSE,FALSE,FALSE
+"Dromiciops gliroides","Open forest",126,NA,"Microbiotheridae",FALSE,FALSE,FALSE
+"Rhyncholestes raphanurus","Shrubs",20,NA,"Caenolestidae",FALSE,FALSE,FALSE
+"Rhyncholestes raphanurus","Herbaceous vegetation",30,NA,"Caenolestidae",FALSE,FALSE,FALSE
+"Rhyncholestes raphanurus","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Caenolestidae",FALSE,FALSE,FALSE
+"Rhyncholestes raphanurus","Bare / sparse vegetation",60,NA,"Caenolestidae",FALSE,FALSE,FALSE
+"Rhyncholestes raphanurus","Snow and Ice",70,NA,"Caenolestidae",FALSE,FALSE,FALSE
+"Rhyncholestes raphanurus","Permanent water bodies ",80,NA,"Caenolestidae",FALSE,FALSE,FALSE
+"Rhyncholestes raphanurus","Herbaceous wetland",90,NA,"Caenolestidae",FALSE,FALSE,FALSE
+"Rhyncholestes raphanurus","Closed forest",111,NA,"Caenolestidae",FALSE,FALSE,FALSE
+"Rhyncholestes raphanurus","Open forest",126,NA,"Caenolestidae",FALSE,FALSE,FALSE
+"Tapirus terrestris","Shrubs",20,NA,"Tapiridae",FALSE,FALSE,FALSE
+"Tapirus terrestris","Herbaceous vegetation",30,NA,"Tapiridae",FALSE,FALSE,FALSE
+"Tapirus terrestris","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Tapiridae",FALSE,FALSE,FALSE
+"Tapirus terrestris","Urban / built up ",50,NA,"Tapiridae",FALSE,FALSE,FALSE
+"Tapirus terrestris","Bare / sparse vegetation",60,NA,"Tapiridae",FALSE,FALSE,FALSE
+"Tapirus terrestris","Permanent water bodies ",80,NA,"Tapiridae",FALSE,FALSE,FALSE
+"Tapirus terrestris","Herbaceous wetland",90,NA,"Tapiridae",FALSE,FALSE,FALSE
+"Tapirus terrestris","Closed forest",111,NA,"Tapiridae",FALSE,FALSE,FALSE
+"Tapirus terrestris","Open forest",126,NA,"Tapiridae",FALSE,FALSE,FALSE
+"Myrmecophaga tridactyla","Shrubs",20,NA,"Myrmecophagidae",FALSE,FALSE,FALSE
+"Myrmecophaga tridactyla","Herbaceous vegetation",30,NA,"Myrmecophagidae",FALSE,FALSE,FALSE
+"Myrmecophaga tridactyla","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Myrmecophagidae",FALSE,FALSE,FALSE
+"Myrmecophaga tridactyla","Urban / built up ",50,NA,"Myrmecophagidae",FALSE,FALSE,FALSE
+"Myrmecophaga tridactyla","Bare / sparse vegetation",60,NA,"Myrmecophagidae",FALSE,FALSE,FALSE
+"Myrmecophaga tridactyla","Permanent water bodies ",80,NA,"Myrmecophagidae",FALSE,FALSE,FALSE
+"Myrmecophaga tridactyla","Herbaceous wetland",90,NA,"Myrmecophagidae",FALSE,FALSE,FALSE
+"Myrmecophaga tridactyla","Closed forest",111,NA,"Myrmecophagidae",FALSE,FALSE,FALSE
+"Myrmecophaga tridactyla","Open forest",126,NA,"Myrmecophagidae",FALSE,FALSE,FALSE
+"Tamandua tetradactyla","Shrubs",20,NA,"Myrmecophagidae",FALSE,FALSE,FALSE
+"Tamandua tetradactyla","Herbaceous vegetation",30,NA,"Myrmecophagidae",FALSE,FALSE,FALSE
+"Tamandua tetradactyla","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Myrmecophagidae",FALSE,FALSE,FALSE
+"Tamandua tetradactyla","Urban / built up ",50,NA,"Myrmecophagidae",FALSE,FALSE,FALSE
+"Tamandua tetradactyla","Bare / sparse vegetation",60,NA,"Myrmecophagidae",FALSE,FALSE,FALSE
+"Tamandua tetradactyla","Permanent water bodies ",80,NA,"Myrmecophagidae",FALSE,FALSE,FALSE
+"Tamandua tetradactyla","Herbaceous wetland",90,NA,"Myrmecophagidae",FALSE,FALSE,FALSE
+"Tamandua tetradactyla","Closed forest",111,NA,"Myrmecophagidae",FALSE,FALSE,FALSE
+"Tamandua tetradactyla","Open forest",126,NA,"Myrmecophagidae",FALSE,FALSE,FALSE
+"Tamandua tetradactyla",NA,NA,NA,"Myrmecophagidae",FALSE,FALSE,FALSE
+"Alouatta caraya","Shrubs",20,NA,"Atelidae",FALSE,FALSE,FALSE
+"Alouatta caraya","Herbaceous vegetation",30,NA,"Atelidae",FALSE,FALSE,FALSE
+"Alouatta caraya","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Atelidae",FALSE,FALSE,FALSE
+"Alouatta caraya","Urban / built up ",50,NA,"Atelidae",FALSE,FALSE,FALSE
+"Alouatta caraya","Bare / sparse vegetation",60,NA,"Atelidae",FALSE,FALSE,FALSE
+"Alouatta caraya","Permanent water bodies ",80,NA,"Atelidae",FALSE,FALSE,FALSE
+"Alouatta caraya","Herbaceous wetland",90,NA,"Atelidae",FALSE,FALSE,FALSE
+"Alouatta caraya","Closed forest",111,NA,"Atelidae",FALSE,FALSE,FALSE
+"Alouatta caraya","Open forest",126,NA,"Atelidae",FALSE,FALSE,FALSE
+"Alouatta guariba","Shrubs",20,NA,"Atelidae",FALSE,FALSE,FALSE
+"Alouatta guariba","Herbaceous vegetation",30,NA,"Atelidae",FALSE,FALSE,FALSE
+"Alouatta guariba","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Atelidae",FALSE,FALSE,FALSE
+"Alouatta guariba","Urban / built up ",50,NA,"Atelidae",FALSE,FALSE,FALSE
+"Alouatta guariba","Permanent water bodies ",80,NA,"Atelidae",FALSE,FALSE,FALSE
+"Alouatta guariba","Herbaceous wetland",90,NA,"Atelidae",FALSE,FALSE,FALSE
+"Alouatta guariba","Closed forest",111,NA,"Atelidae",FALSE,FALSE,FALSE
+"Alouatta guariba","Open forest",126,NA,"Atelidae",FALSE,FALSE,FALSE
+"Aotus azarae","Shrubs",20,NA,"Cebidae",FALSE,FALSE,FALSE
+"Aotus azarae","Herbaceous vegetation",30,NA,"Cebidae",FALSE,FALSE,FALSE
+"Aotus azarae","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Cebidae",FALSE,FALSE,FALSE
+"Aotus azarae","Urban / built up ",50,NA,"Cebidae",FALSE,FALSE,FALSE
+"Aotus azarae","Bare / sparse vegetation",60,NA,"Cebidae",FALSE,FALSE,FALSE
+"Aotus azarae","Permanent water bodies ",80,NA,"Cebidae",FALSE,FALSE,FALSE
+"Aotus azarae","Herbaceous wetland",90,NA,"Cebidae",FALSE,FALSE,FALSE
+"Aotus azarae","Closed forest",111,NA,"Cebidae",FALSE,FALSE,FALSE
+"Aotus azarae","Open forest",126,NA,"Cebidae",FALSE,FALSE,FALSE
+"Aotus azarae",NA,NA,NA,"Cebidae",FALSE,FALSE,FALSE
+"Sapajus cay","Shrubs",20,NA,"Cebidae",FALSE,FALSE,FALSE
+"Sapajus cay","Herbaceous vegetation",30,NA,"Cebidae",FALSE,FALSE,FALSE
+"Sapajus cay","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Cebidae",FALSE,FALSE,FALSE
+"Sapajus cay","Urban / built up ",50,NA,"Cebidae",FALSE,FALSE,FALSE
+"Sapajus cay","Bare / sparse vegetation",60,NA,"Cebidae",FALSE,FALSE,FALSE
+"Sapajus cay","Permanent water bodies ",80,NA,"Cebidae",FALSE,FALSE,FALSE
+"Sapajus cay","Herbaceous wetland",90,NA,"Cebidae",FALSE,FALSE,FALSE
+"Sapajus cay","Closed forest",111,NA,"Cebidae",FALSE,FALSE,FALSE
+"Sapajus cay","Open forest",126,NA,"Cebidae",FALSE,FALSE,FALSE
+"Sapajus nigritus","Shrubs",20,NA,"Cebidae",FALSE,FALSE,FALSE
+"Sapajus nigritus","Herbaceous vegetation",30,NA,"Cebidae",FALSE,FALSE,FALSE
+"Sapajus nigritus","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Cebidae",FALSE,FALSE,FALSE
+"Sapajus nigritus","Urban / built up ",50,NA,"Cebidae",FALSE,FALSE,FALSE
+"Sapajus nigritus","Permanent water bodies ",80,NA,"Cebidae",FALSE,FALSE,FALSE
+"Sapajus nigritus","Herbaceous wetland",90,NA,"Cebidae",FALSE,FALSE,FALSE
+"Sapajus nigritus","Closed forest",111,NA,"Cebidae",FALSE,FALSE,FALSE
+"Sapajus nigritus","Open forest",126,NA,"Cebidae",FALSE,FALSE,FALSE
+"Abrocoma budini","Shrubs",20,NA,"Abrocomidae",FALSE,FALSE,FALSE
+"Abrocoma budini","Herbaceous vegetation",30,NA,"Abrocomidae",FALSE,FALSE,FALSE
+"Abrocoma budini","Closed forest",111,NA,"Abrocomidae",FALSE,FALSE,FALSE
+"Abrocoma budini","Open forest",126,NA,"Abrocomidae",FALSE,FALSE,FALSE
+"Abrocoma famatina","Shrubs",20,NA,"Abrocomidae",FALSE,FALSE,FALSE
+"Abrocoma famatina","Herbaceous vegetation",30,NA,"Abrocomidae",FALSE,FALSE,FALSE
+"Abrocoma famatina","Bare / sparse vegetation",60,NA,"Abrocomidae",FALSE,FALSE,FALSE
+"Abrocoma famatina","Snow and Ice",70,NA,"Abrocomidae",FALSE,FALSE,FALSE
+"Abrocoma famatina",NA,NA,NA,"Abrocomidae",FALSE,FALSE,FALSE
+"Abrocoma schistacea","Shrubs",20,NA,"Abrocomidae",FALSE,FALSE,FALSE
+"Abrocoma schistacea","Herbaceous vegetation",30,NA,"Abrocomidae",FALSE,FALSE,FALSE
+"Abrocoma schistacea","Bare / sparse vegetation",60,NA,"Abrocomidae",FALSE,FALSE,FALSE
+"Abrocoma uspallata","Shrubs",20,NA,"Abrocomidae",FALSE,FALSE,FALSE
+"Abrocoma uspallata","Herbaceous vegetation",30,NA,"Abrocomidae",FALSE,FALSE,FALSE
+"Abrocoma uspallata","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Abrocomidae",FALSE,FALSE,FALSE
+"Abrocoma uspallata","Urban / built up ",50,NA,"Abrocomidae",FALSE,FALSE,FALSE
+"Abrocoma uspallata","Bare / sparse vegetation",60,NA,"Abrocomidae",FALSE,FALSE,FALSE
+"Abrocoma vaccarum","Herbaceous vegetation",30,NA,"Abrocomidae",FALSE,FALSE,FALSE
+"Abrocoma vaccarum","Bare / sparse vegetation",60,NA,"Abrocomidae",FALSE,FALSE,FALSE
+"Dolichotis patagonum","Shrubs",20,NA,"Caviidae",FALSE,FALSE,FALSE
+"Dolichotis patagonum","Herbaceous vegetation",30,NA,"Caviidae",FALSE,FALSE,FALSE
+"Dolichotis patagonum","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Caviidae",FALSE,FALSE,FALSE
+"Dolichotis patagonum","Urban / built up ",50,NA,"Caviidae",FALSE,FALSE,FALSE
+"Dolichotis patagonum","Bare / sparse vegetation",60,NA,"Caviidae",FALSE,FALSE,FALSE
+"Dolichotis patagonum","Snow and Ice",70,NA,"Caviidae",FALSE,FALSE,FALSE
+"Dolichotis patagonum","Permanent water bodies ",80,NA,"Caviidae",FALSE,FALSE,FALSE
+"Dolichotis patagonum","Herbaceous wetland",90,NA,"Caviidae",FALSE,FALSE,FALSE
+"Dolichotis patagonum","Closed forest",111,NA,"Caviidae",FALSE,FALSE,FALSE
+"Dolichotis patagonum","Open forest",126,NA,"Caviidae",FALSE,FALSE,FALSE
+"Dolichotis patagonum","Open sea",200,NA,"Caviidae",FALSE,FALSE,FALSE
+"Microcavia shiptoni","Shrubs",20,NA,"Caviidae",FALSE,FALSE,FALSE
+"Microcavia shiptoni","Herbaceous vegetation",30,NA,"Caviidae",FALSE,FALSE,FALSE
+"Microcavia shiptoni","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Caviidae",FALSE,FALSE,FALSE
+"Microcavia shiptoni","Urban / built up ",50,NA,"Caviidae",FALSE,FALSE,FALSE
+"Microcavia shiptoni","Bare / sparse vegetation",60,NA,"Caviidae",FALSE,FALSE,FALSE
+"Microcavia shiptoni","Permanent water bodies ",80,NA,"Caviidae",FALSE,FALSE,FALSE
+"Microcavia shiptoni","Herbaceous wetland",90,NA,"Caviidae",FALSE,FALSE,FALSE
+"Chinchilla chinchilla","No input data available ",0,NA,"Chinchillidae",FALSE,FALSE,FALSE
+"Chinchilla chinchilla","Shrubs",20,NA,"Chinchillidae",FALSE,FALSE,FALSE
+"Chinchilla chinchilla","Herbaceous vegetation",30,NA,"Chinchillidae",FALSE,FALSE,FALSE
+"Chinchilla chinchilla","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Chinchillidae",FALSE,FALSE,FALSE
+"Chinchilla chinchilla","Urban / built up ",50,NA,"Chinchillidae",FALSE,FALSE,FALSE
+"Chinchilla chinchilla","Bare / sparse vegetation",60,NA,"Chinchillidae",FALSE,FALSE,FALSE
+"Chinchilla chinchilla","Snow and Ice",70,NA,"Chinchillidae",FALSE,FALSE,FALSE
+"Chinchilla chinchilla","Permanent water bodies ",80,NA,"Chinchillidae",FALSE,FALSE,FALSE
+"Abrawayaomys ruschii","Shrubs",20,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Abrawayaomys ruschii","Herbaceous vegetation",30,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Abrawayaomys ruschii","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Abrawayaomys ruschii","Urban / built up ",50,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Abrawayaomys ruschii","Permanent water bodies ",80,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Abrawayaomys ruschii","Herbaceous wetland",90,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Abrawayaomys ruschii","Closed forest",111,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Abrawayaomys ruschii","Open forest",126,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Akodon fumeus","Shrubs",20,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Akodon fumeus","Herbaceous vegetation",30,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Akodon fumeus","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Akodon fumeus","Urban / built up ",50,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Akodon fumeus","Bare / sparse vegetation",60,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Akodon fumeus","Herbaceous wetland",90,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Akodon fumeus","Closed forest",111,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Akodon fumeus","Open forest",126,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Akodon philipmyersi","Shrubs",20,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Akodon philipmyersi","Herbaceous vegetation",30,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Akodon philipmyersi","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Akodon philipmyersi","Urban / built up ",50,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Akodon philipmyersi","Permanent water bodies ",80,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Akodon philipmyersi","Herbaceous wetland",90,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Akodon philipmyersi","Closed forest",111,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Akodon philipmyersi","Open forest",126,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Akodon polopi","Shrubs",20,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Akodon polopi","Herbaceous vegetation",30,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Akodon polopi","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Akodon polopi","Bare / sparse vegetation",60,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Akodon polopi","Herbaceous wetland",90,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Akodon polopi","Closed forest",111,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Akodon polopi","Open forest",126,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Akodon sylvanus","Shrubs",20,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Akodon sylvanus","Herbaceous vegetation",30,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Akodon sylvanus","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Akodon sylvanus","Urban / built up ",50,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Akodon sylvanus","Herbaceous wetland",90,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Akodon sylvanus","Closed forest",111,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Akodon sylvanus","Open forest",126,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Bibimys chacoensis","Shrubs",20,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Bibimys chacoensis","Herbaceous vegetation",30,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Bibimys chacoensis","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Bibimys chacoensis","Urban / built up ",50,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Bibimys chacoensis","Bare / sparse vegetation",60,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Bibimys chacoensis","Permanent water bodies ",80,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Bibimys chacoensis","Herbaceous wetland",90,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Bibimys chacoensis","Closed forest",111,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Bibimys chacoensis","Open forest",126,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Bibimys torresi","Shrubs",20,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Bibimys torresi","Herbaceous vegetation",30,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Bibimys torresi","Urban / built up ",50,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Bibimys torresi","Permanent water bodies ",80,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Bibimys torresi","Herbaceous wetland",90,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Bibimys torresi","Closed forest",111,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Bibimys torresi","Open forest",126,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Bibimys torresi","Open sea",200,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Bibimys torresi",NA,NA,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Brucepattersonius iheringi","Shrubs",20,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Brucepattersonius iheringi","Herbaceous vegetation",30,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Brucepattersonius iheringi","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Brucepattersonius iheringi","Urban / built up ",50,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Brucepattersonius iheringi","Permanent water bodies ",80,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Brucepattersonius iheringi","Herbaceous wetland",90,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Brucepattersonius iheringi","Closed forest",111,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Brucepattersonius iheringi","Open forest",126,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Castoria angustidens","Shrubs",20,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Castoria angustidens","Herbaceous vegetation",30,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Castoria angustidens","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Castoria angustidens","Urban / built up ",50,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Castoria angustidens","Permanent water bodies ",80,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Castoria angustidens","Herbaceous wetland",90,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Castoria angustidens","Closed forest",111,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Castoria angustidens","Open forest",126,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Delomys dorsalis","Shrubs",20,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Delomys dorsalis","Herbaceous vegetation",30,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Delomys dorsalis","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Delomys dorsalis","Urban / built up ",50,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Delomys dorsalis","Permanent water bodies ",80,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Delomys dorsalis","Herbaceous wetland",90,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Delomys dorsalis","Closed forest",111,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Delomys dorsalis","Open forest",126,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Deltamys kempi","Shrubs",20,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Deltamys kempi","Herbaceous vegetation",30,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Deltamys kempi","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Deltamys kempi","Urban / built up ",50,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Deltamys kempi","Permanent water bodies ",80,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Deltamys kempi","Herbaceous wetland",90,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Deltamys kempi","Closed forest",111,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Deltamys kempi","Open forest",126,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Deltamys kempi","Open sea",200,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Eligmodontia bolsonensis","No input data available ",0,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Eligmodontia bolsonensis","Shrubs",20,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Eligmodontia bolsonensis","Herbaceous vegetation",30,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Eligmodontia bolsonensis","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Eligmodontia bolsonensis","Urban / built up ",50,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Eligmodontia bolsonensis","Bare / sparse vegetation",60,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Eligmodontia bolsonensis","Permanent water bodies ",80,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Eligmodontia bolsonensis","Herbaceous wetland",90,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Eligmodontia bolsonensis","Closed forest",111,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Eligmodontia bolsonensis","Open forest",126,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Euryoryzomys russatus","Shrubs",20,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Euryoryzomys russatus","Herbaceous vegetation",30,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Euryoryzomys russatus","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Euryoryzomys russatus","Urban / built up ",50,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Euryoryzomys russatus","Permanent water bodies ",80,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Euryoryzomys russatus","Herbaceous wetland",90,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Euryoryzomys russatus","Closed forest",111,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Euryoryzomys russatus","Open forest",126,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Holochilus lagigliai","Shrubs",20,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Holochilus lagigliai","Herbaceous vegetation",30,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Holochilus lagigliai","Urban / built up ",50,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Holochilus lagigliai","Bare / sparse vegetation",60,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Holochilus lagigliai","Permanent water bodies ",80,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Holochilus lagigliai","Herbaceous wetland",90,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Juliomys pictipes","Shrubs",20,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Juliomys pictipes","Herbaceous vegetation",30,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Juliomys pictipes","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Juliomys pictipes","Urban / built up ",50,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Juliomys pictipes","Permanent water bodies ",80,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Juliomys pictipes","Herbaceous wetland",90,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Juliomys pictipes","Closed forest",111,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Juliomys pictipes","Open forest",126,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Necromys obscurus","Shrubs",20,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Necromys obscurus","Herbaceous vegetation",30,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Necromys obscurus","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Necromys obscurus","Urban / built up ",50,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Necromys obscurus","Bare / sparse vegetation",60,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Necromys obscurus","Permanent water bodies ",80,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Necromys obscurus","Herbaceous wetland",90,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Necromys obscurus","Closed forest",111,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Necromys obscurus","Open forest",126,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Necromys obscurus","Open sea",200,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Oecomys franciscorum","Shrubs",20,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Oecomys franciscorum","Herbaceous vegetation",30,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Oecomys franciscorum","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Oecomys franciscorum","Urban / built up ",50,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Oecomys franciscorum","Permanent water bodies ",80,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Oecomys franciscorum","Herbaceous wetland",90,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Oecomys franciscorum","Closed forest",111,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Oecomys franciscorum","Open forest",126,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Oxymycterus wayku","Shrubs",20,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Oxymycterus wayku","Herbaceous vegetation",30,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Oxymycterus wayku","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Oxymycterus wayku","Urban / built up ",50,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Oxymycterus wayku","Bare / sparse vegetation",60,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Oxymycterus wayku","Permanent water bodies ",80,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Oxymycterus wayku","Herbaceous wetland",90,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Oxymycterus wayku","Closed forest",111,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Oxymycterus wayku","Open forest",126,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Oxymycterus wayku",NA,NA,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Phyllotis bonariensis","Shrubs",20,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Phyllotis bonariensis","Herbaceous vegetation",30,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Phyllotis bonariensis","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Phyllotis bonariensis","Urban / built up ",50,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Phyllotis bonariensis","Bare / sparse vegetation",60,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Phyllotis bonariensis","Herbaceous wetland",90,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Phyllotis bonariensis","Closed forest",111,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Phyllotis bonariensis","Open forest",126,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Phyllotis nogalaris","Shrubs",20,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Phyllotis nogalaris","Herbaceous vegetation",30,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Phyllotis nogalaris","Herbaceous wetland",90,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Phyllotis nogalaris","Closed forest",111,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Phyllotis nogalaris","Open forest",126,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Salinomys delicatus","Shrubs",20,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Salinomys delicatus","Herbaceous vegetation",30,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Salinomys delicatus","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Salinomys delicatus","Urban / built up ",50,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Salinomys delicatus","Bare / sparse vegetation",60,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Salinomys delicatus","Permanent water bodies ",80,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Salinomys delicatus","Herbaceous wetland",90,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Salinomys delicatus","Closed forest",111,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Salinomys delicatus","Open forest",126,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Tapecomys primus","Shrubs",20,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Tapecomys primus","Herbaceous vegetation",30,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Tapecomys primus","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Tapecomys primus","Urban / built up ",50,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Tapecomys primus","Bare / sparse vegetation",60,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Tapecomys primus","Herbaceous wetland",90,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Tapecomys primus","Closed forest",111,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Tapecomys primus","Open forest",126,NA,"Cricetidae",FALSE,FALSE,FALSE
+"Ctenomys argentinus","Shrubs",20,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys argentinus","Herbaceous vegetation",30,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys argentinus","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys argentinus","Urban / built up ",50,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys argentinus","Bare / sparse vegetation",60,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys argentinus","Permanent water bodies ",80,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys argentinus","Herbaceous wetland",90,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys argentinus","Closed forest",111,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys argentinus","Open forest",126,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys australis","Shrubs",20,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys australis","Herbaceous vegetation",30,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys australis","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys australis","Urban / built up ",50,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys australis","Bare / sparse vegetation",60,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys australis","Permanent water bodies ",80,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys australis","Herbaceous wetland",90,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys australis","Closed forest",111,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys australis","Open forest",126,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys australis","Open sea",200,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys bergi","Shrubs",20,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys bergi","Herbaceous vegetation",30,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys bergi","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys bergi","Urban / built up ",50,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys bergi","Permanent water bodies ",80,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys bergi","Herbaceous wetland",90,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys bergi","Closed forest",111,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys bergi","Open forest",126,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys bonettoi","Shrubs",20,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys bonettoi","Herbaceous vegetation",30,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys bonettoi","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys bonettoi","Urban / built up ",50,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys bonettoi","Herbaceous wetland",90,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys bonettoi","Closed forest",111,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys bonettoi","Open forest",126,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys chasiquensis","Shrubs",20,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys chasiquensis","Herbaceous vegetation",30,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys chasiquensis","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys chasiquensis","Urban / built up ",50,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys chasiquensis","Bare / sparse vegetation",60,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys chasiquensis","Permanent water bodies ",80,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys chasiquensis","Herbaceous wetland",90,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys dorbignyi","Shrubs",20,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys dorbignyi","Herbaceous vegetation",30,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys dorbignyi","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys dorbignyi","Urban / built up ",50,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys dorbignyi","Permanent water bodies ",80,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys dorbignyi","Herbaceous wetland",90,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys dorbignyi","Closed forest",111,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys dorbignyi","Open forest",126,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys emilianus","Shrubs",20,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys emilianus","Herbaceous vegetation",30,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys emilianus","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys emilianus","Urban / built up ",50,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys emilianus","Bare / sparse vegetation",60,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys emilianus","Permanent water bodies ",80,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys latro","Shrubs",20,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys latro","Herbaceous vegetation",30,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys latro","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys latro","Urban / built up ",50,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys latro","Permanent water bodies ",80,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys latro","Herbaceous wetland",90,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys latro","Closed forest",111,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys latro","Open forest",126,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys magellanicus","Shrubs",20,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys magellanicus","Herbaceous vegetation",30,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys magellanicus","Urban / built up ",50,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys magellanicus","Bare / sparse vegetation",60,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys magellanicus","Snow and Ice",70,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys magellanicus","Permanent water bodies ",80,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys magellanicus","Herbaceous wetland",90,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys magellanicus","Closed forest",111,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys magellanicus","Open forest",126,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys magellanicus","Open sea",200,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys occultus","Shrubs",20,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys occultus","Herbaceous vegetation",30,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys occultus","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys occultus","Urban / built up ",50,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys occultus","Herbaceous wetland",90,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys occultus","Closed forest",111,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys occultus","Open forest",126,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys osvaldoreigi","Shrubs",20,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys osvaldoreigi","Herbaceous vegetation",30,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys osvaldoreigi","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys osvaldoreigi","Urban / built up ",50,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys osvaldoreigi","Bare / sparse vegetation",60,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys osvaldoreigi","Closed forest",111,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys osvaldoreigi","Open forest",126,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys pearsoni","Shrubs",20,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys pearsoni","Herbaceous vegetation",30,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys pearsoni","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys pearsoni","Urban / built up ",50,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys pearsoni","Permanent water bodies ",80,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys pearsoni","Herbaceous wetland",90,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys pearsoni","Closed forest",111,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys pearsoni","Open forest",126,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys pearsoni","Open sea",200,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys perrensi","Shrubs",20,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys perrensi","Herbaceous vegetation",30,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys perrensi","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys perrensi","Urban / built up ",50,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys perrensi","Permanent water bodies ",80,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys perrensi","Herbaceous wetland",90,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys perrensi","Closed forest",111,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys perrensi","Open forest",126,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys porteousi","Shrubs",20,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys porteousi","Herbaceous vegetation",30,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys porteousi","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys porteousi","Urban / built up ",50,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys porteousi","Bare / sparse vegetation",60,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys porteousi","Permanent water bodies ",80,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys porteousi","Herbaceous wetland",90,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys porteousi","Closed forest",111,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys porteousi","Open forest",126,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys pundti","Shrubs",20,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys pundti","Herbaceous vegetation",30,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys pundti","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys pundti","Urban / built up ",50,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys pundti","Herbaceous wetland",90,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys rionegrensis","Shrubs",20,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys rionegrensis","Herbaceous vegetation",30,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys rionegrensis","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys rionegrensis","Urban / built up ",50,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys rionegrensis","Permanent water bodies ",80,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys rionegrensis","Herbaceous wetland",90,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys rionegrensis","Closed forest",111,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys rionegrensis","Open forest",126,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys rionegrensis","Open sea",200,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys roigi","Shrubs",20,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys roigi","Herbaceous vegetation",30,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys roigi","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys roigi","Permanent water bodies ",80,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys roigi","Herbaceous wetland",90,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys roigi","Closed forest",111,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys roigi","Open forest",126,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys sociabilis","Shrubs",20,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys sociabilis","Herbaceous vegetation",30,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys sociabilis","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys sociabilis","Bare / sparse vegetation",60,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys sociabilis","Permanent water bodies ",80,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys sociabilis","Herbaceous wetland",90,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys sociabilis","Closed forest",111,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys sociabilis","Open forest",126,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys talarum","Shrubs",20,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys talarum","Herbaceous vegetation",30,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys talarum","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys talarum","Urban / built up ",50,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys talarum","Bare / sparse vegetation",60,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys talarum","Permanent water bodies ",80,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys talarum","Herbaceous wetland",90,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys talarum","Closed forest",111,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys talarum","Open forest",126,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys talarum","Open sea",200,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys tuconax","Shrubs",20,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys tuconax","Herbaceous vegetation",30,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys tuconax","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys tuconax","Urban / built up ",50,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys tuconax","Bare / sparse vegetation",60,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys tuconax","Herbaceous wetland",90,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys tuconax","Closed forest",111,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys tuconax","Open forest",126,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys tucumanus","Shrubs",20,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys tucumanus","Herbaceous vegetation",30,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys tucumanus","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys tucumanus","Urban / built up ",50,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys tucumanus","Bare / sparse vegetation",60,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys tucumanus","Permanent water bodies ",80,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys tucumanus","Herbaceous wetland",90,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys tucumanus","Closed forest",111,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Ctenomys tucumanus","Open forest",126,NA,"Ctenomyidae",FALSE,FALSE,FALSE
+"Cuniculus paca","Shrubs",20,NA,"Cuniculidae",FALSE,FALSE,FALSE
+"Cuniculus paca","Herbaceous vegetation",30,NA,"Cuniculidae",FALSE,FALSE,FALSE
+"Cuniculus paca","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Cuniculidae",FALSE,FALSE,FALSE
+"Cuniculus paca","Urban / built up ",50,NA,"Cuniculidae",FALSE,FALSE,FALSE
+"Cuniculus paca","Permanent water bodies ",80,NA,"Cuniculidae",FALSE,FALSE,FALSE
+"Cuniculus paca","Herbaceous wetland",90,NA,"Cuniculidae",FALSE,FALSE,FALSE
+"Cuniculus paca","Closed forest",111,NA,"Cuniculidae",FALSE,FALSE,FALSE
+"Cuniculus paca","Open forest",126,NA,"Cuniculidae",FALSE,FALSE,FALSE
+"Cuniculus paca",NA,NA,NA,"Cuniculidae",FALSE,FALSE,FALSE
+"Dasyprocta azarae","Shrubs",20,NA,"Dasyproctidae",FALSE,FALSE,FALSE
+"Dasyprocta azarae","Herbaceous vegetation",30,NA,"Dasyproctidae",FALSE,FALSE,FALSE
+"Dasyprocta azarae","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Dasyproctidae",FALSE,FALSE,FALSE
+"Dasyprocta azarae","Urban / built up ",50,NA,"Dasyproctidae",FALSE,FALSE,FALSE
+"Dasyprocta azarae","Permanent water bodies ",80,NA,"Dasyproctidae",FALSE,FALSE,FALSE
+"Dasyprocta azarae","Herbaceous wetland",90,NA,"Dasyproctidae",FALSE,FALSE,FALSE
+"Dasyprocta azarae","Closed forest",111,NA,"Dasyproctidae",FALSE,FALSE,FALSE
+"Dasyprocta azarae","Open forest",126,NA,"Dasyproctidae",FALSE,FALSE,FALSE
+"Dasyprocta azarae",NA,NA,NA,"Dasyproctidae",FALSE,FALSE,FALSE
+"Euryzygomatomys spinosus","Shrubs",20,NA,"Echimyidae",FALSE,FALSE,FALSE
+"Euryzygomatomys spinosus","Herbaceous vegetation",30,NA,"Echimyidae",FALSE,FALSE,FALSE
+"Euryzygomatomys spinosus","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Echimyidae",FALSE,FALSE,FALSE
+"Euryzygomatomys spinosus","Urban / built up ",50,NA,"Echimyidae",FALSE,FALSE,FALSE
+"Euryzygomatomys spinosus","Permanent water bodies ",80,NA,"Echimyidae",FALSE,FALSE,FALSE
+"Euryzygomatomys spinosus","Herbaceous wetland",90,NA,"Echimyidae",FALSE,FALSE,FALSE
+"Euryzygomatomys spinosus","Closed forest",111,NA,"Echimyidae",FALSE,FALSE,FALSE
+"Euryzygomatomys spinosus","Open forest",126,NA,"Echimyidae",FALSE,FALSE,FALSE
+"Kannabateomys amblyonyx","Shrubs",20,NA,"Echimyidae",FALSE,FALSE,FALSE
+"Kannabateomys amblyonyx","Herbaceous vegetation",30,NA,"Echimyidae",FALSE,FALSE,FALSE
+"Kannabateomys amblyonyx","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Echimyidae",FALSE,FALSE,FALSE
+"Kannabateomys amblyonyx","Urban / built up ",50,NA,"Echimyidae",FALSE,FALSE,FALSE
+"Kannabateomys amblyonyx","Permanent water bodies ",80,NA,"Echimyidae",FALSE,FALSE,FALSE
+"Kannabateomys amblyonyx","Herbaceous wetland",90,NA,"Echimyidae",FALSE,FALSE,FALSE
+"Kannabateomys amblyonyx","Closed forest",111,NA,"Echimyidae",FALSE,FALSE,FALSE
+"Kannabateomys amblyonyx","Open forest",126,NA,"Echimyidae",FALSE,FALSE,FALSE
+"Coendou bicolor","Shrubs",20,NA,"Erethizontidae",FALSE,FALSE,FALSE
+"Coendou bicolor","Herbaceous vegetation",30,NA,"Erethizontidae",FALSE,FALSE,FALSE
+"Coendou bicolor","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Erethizontidae",FALSE,FALSE,FALSE
+"Coendou bicolor","Bare / sparse vegetation",60,NA,"Erethizontidae",FALSE,FALSE,FALSE
+"Coendou bicolor","Permanent water bodies ",80,NA,"Erethizontidae",FALSE,FALSE,FALSE
+"Coendou bicolor","Herbaceous wetland",90,NA,"Erethizontidae",FALSE,FALSE,FALSE
+"Coendou bicolor","Closed forest",111,NA,"Erethizontidae",FALSE,FALSE,FALSE
+"Coendou bicolor","Open forest",126,NA,"Erethizontidae",FALSE,FALSE,FALSE
+"Coendou prehensilis","Shrubs",20,NA,"Erethizontidae",FALSE,FALSE,FALSE
+"Coendou prehensilis","Herbaceous vegetation",30,NA,"Erethizontidae",FALSE,FALSE,FALSE
+"Coendou prehensilis","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Erethizontidae",FALSE,FALSE,FALSE
+"Coendou prehensilis","Urban / built up ",50,NA,"Erethizontidae",FALSE,FALSE,FALSE
+"Coendou prehensilis","Bare / sparse vegetation",60,NA,"Erethizontidae",FALSE,FALSE,FALSE
+"Coendou prehensilis","Permanent water bodies ",80,NA,"Erethizontidae",FALSE,FALSE,FALSE
+"Coendou prehensilis","Herbaceous wetland",90,NA,"Erethizontidae",FALSE,FALSE,FALSE
+"Coendou prehensilis","Closed forest",111,NA,"Erethizontidae",FALSE,FALSE,FALSE
+"Coendou prehensilis","Open forest",126,NA,"Erethizontidae",FALSE,FALSE,FALSE
+"Aconaemys porteri","Shrubs",20,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Aconaemys porteri","Herbaceous vegetation",30,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Aconaemys porteri","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Aconaemys porteri","Urban / built up ",50,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Aconaemys porteri","Bare / sparse vegetation",60,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Aconaemys porteri","Snow and Ice",70,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Aconaemys porteri","Permanent water bodies ",80,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Aconaemys porteri","Herbaceous wetland",90,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Aconaemys porteri","Closed forest",111,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Aconaemys porteri","Open forest",126,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Aconaemys sagei","Shrubs",20,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Aconaemys sagei","Herbaceous vegetation",30,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Aconaemys sagei","Permanent water bodies ",80,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Aconaemys sagei","Herbaceous wetland",90,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Aconaemys sagei","Closed forest",111,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Aconaemys sagei","Open forest",126,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Octodon bridgesi","Shrubs",20,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Octodon bridgesi","Herbaceous vegetation",30,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Octodon bridgesi","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Octodon bridgesi","Urban / built up ",50,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Octodon bridgesi","Bare / sparse vegetation",60,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Octodon bridgesi","Snow and Ice",70,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Octodon bridgesi","Permanent water bodies ",80,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Octodon bridgesi","Herbaceous wetland",90,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Octodon bridgesi","Closed forest",111,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Octodon bridgesi","Open forest",126,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Octomys mimax","Shrubs",20,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Octomys mimax","Herbaceous vegetation",30,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Octomys mimax","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Octomys mimax","Urban / built up ",50,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Octomys mimax","Bare / sparse vegetation",60,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Octomys mimax","Permanent water bodies ",80,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Octomys mimax","Closed forest",111,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Octomys mimax","Open forest",126,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Tympanoctomys aureus","Shrubs",20,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Tympanoctomys aureus","Bare / sparse vegetation",60,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Tympanoctomys barrerae","Shrubs",20,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Tympanoctomys barrerae","Herbaceous vegetation",30,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Tympanoctomys barrerae","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Tympanoctomys barrerae","Urban / built up ",50,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Tympanoctomys barrerae","Bare / sparse vegetation",60,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Tympanoctomys barrerae","Permanent water bodies ",80,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Tympanoctomys barrerae","Herbaceous wetland",90,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Tympanoctomys barrerae","Closed forest",111,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Tympanoctomys barrerae","Open forest",126,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Tympanoctomys kirchnerorum","Shrubs",20,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Tympanoctomys kirchnerorum","Herbaceous vegetation",30,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Tympanoctomys kirchnerorum","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Tympanoctomys kirchnerorum","Urban / built up ",50,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Tympanoctomys kirchnerorum","Bare / sparse vegetation",60,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Tympanoctomys kirchnerorum","Permanent water bodies ",80,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Tympanoctomys kirchnerorum","Herbaceous wetland",90,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Tympanoctomys loschalchalerosorum","Shrubs",20,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Tympanoctomys loschalchalerosorum","Herbaceous vegetation",30,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Tympanoctomys loschalchalerosorum","Bare / sparse vegetation",60,NA,"Octodontidae",FALSE,FALSE,FALSE
+"Notosciurus pucheranii","Shrubs",20,NA,"Sciuridae",FALSE,FALSE,FALSE
+"Notosciurus pucheranii","Herbaceous vegetation",30,NA,"Sciuridae",FALSE,FALSE,FALSE
+"Notosciurus pucheranii","Cultivated and managed vegetation/agriculture (cropland)",40,NA,"Sciuridae",FALSE,FALSE,FALSE
+"Notosciurus pucheranii","Urban / built up ",50,NA,"Sciuridae",FALSE,FALSE,FALSE
+"Notosciurus pucheranii","Bare / sparse vegetation",60,NA,"Sciuridae",FALSE,FALSE,FALSE
+"Notosciurus pucheranii","Permanent water bodies ",80,NA,"Sciuridae",FALSE,FALSE,FALSE
+"Notosciurus pucheranii","Herbaceous wetland",90,NA,"Sciuridae",FALSE,FALSE,FALSE
+"Notosciurus pucheranii","Closed forest",111,NA,"Sciuridae",FALSE,FALSE,FALSE
+"Notosciurus pucheranii","Open forest",126,NA,"Sciuridae",FALSE,FALSE,FALSE
